@@ -1,0 +1,21 @@
+{
+  "name": "capsule-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "kyechan99",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyechan99/capsule-render/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyechan99/capsule-render.git"
+  },
+  "dependencies": {
+    "vercel": "^20.1.0"
+  }
+}
