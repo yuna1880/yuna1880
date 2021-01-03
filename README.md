@@ -5,9 +5,9 @@
 
 ---
 
-###### Hello!  I am Yuna Kwon. I am currently learning web full stack to make people lives comfy.
+###### Hello!  I am Yuna Kwon. I am currently learning programming to make people lives comfy.
 ---
-###### 🎓 University student (but developing is outside of my field)
+###### 🎓 University student (but programming is outside of my field)
 ###### 🌱 Learning Web `full-stack`
 ###### 📝 Writing a blog as a hobby
 
