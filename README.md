@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Hi there 👋&fontSize=90&animation=fadeIn)
