@@ -8,7 +8,7 @@
 ###### Hello!  I am Yuna Kwon. I am currently learning Web full stack to make people lives comfy.
 ---
 ###### 🎓 University student (but developing is outside of my field)
-###### 🌱 Learning Web `full stack`
+###### 🌱 Learning Web `full-stack`
 ###### 📝 Writing a blog as a hobby
 
 ###### https://blog.naver.com/yunang1880
