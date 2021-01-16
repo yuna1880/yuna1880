@@ -11,7 +11,7 @@
 ###### 🌱 Learning Web `full-stack`
 ###### 📝 Writing a blog as a hobby
 
-###### https://blog.naver.com/yunang1880
+######  👩🏻‍💻 [Blog](https://blog.naver.com/yunang1880)
 ---
 
 
