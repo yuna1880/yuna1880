@@ -14,7 +14,7 @@
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/yunang1880)
 ---
 
-![image description](https://blog.naver.com/PostView.nhn?blogId=yunang1880&Redirect=View&logNo=222209822055&categoryNo=1&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=8212#)
+![image description](https://postfiles.pstatic.net/MjAyMTAxMTdfMjM5/MDAxNjEwODE0MjQ5ODU5.1ym985Yi-D7xQ6FNjwUa6VizgYHGUSamfgzJys98g3Mg.UCT1VPvlodcsiCWYoRyDBcUHZog_HgIpE7Ss5QhbHWUg.PNG.yunang1880/Yellow_and_Black_YouTube_Channel_Art.png?type=w966)
 
 
 
