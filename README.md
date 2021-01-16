@@ -8,10 +8,10 @@
 ###### Hello!  I am Yuna Kwon. I am currently learning programming to make people lives comfy.
 ---
 ###### 🎓 University student (but programming is outside of my field)
-###### 🌱 Learning Web `full-stack`
-###### 📝 Writing a blog as a hobby
+###### 🌱 Learning Web `Back-end` & `Front-end`
+###### 📝 Writing a blog for sharing many useful code
 
-######  👩🏻‍💻 [Blog](https://blog.naver.com/yunang1880)
+######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/yunang1880)
 ---
 
 
