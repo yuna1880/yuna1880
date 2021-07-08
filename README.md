@@ -8,7 +8,7 @@
 ###### Hello!  I am Yuna Kwon. I am currently learning programming to make people lives comfy.
 ---
 ###### 🎓 University student (but programming is outside of my field)
-###### 🌱 Learning Web `Back-end` & `Front-end`
+###### 🌱 Learning Web `Back-end`
 ###### 📝 Writing a blog for sharing many useful code
 
 
