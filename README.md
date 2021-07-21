@@ -12,7 +12,7 @@
 ###### 📝 Writing a blog for sharing many useful code
 
 
-######  🖥 [Projects](yuna1880.github.io)
+######  🖥 [Projects](https://yuna1880.github.io/index.html)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/yunang1880)
 
 ---
