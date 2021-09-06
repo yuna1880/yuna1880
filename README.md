@@ -12,7 +12,8 @@
 ###### 📝 Writing a blog for sharing many useful code
 
 
-######  🖥 [Portfolio](https://yuna1880.github.io/index.html) [Project](http://alwaysbom.xyz/)
+######  🖥 [Portfolio](https://yuna1880.github.io/index.html)
+###### 💡 [Project](http://alwaysbom.xyz/)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/yunang1880)
 
 ---
