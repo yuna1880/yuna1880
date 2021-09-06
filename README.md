@@ -13,7 +13,7 @@
 
 
 ######  🖥 [Portfolio](https://yuna1880.github.io/index.html)
-###### [Project](http://alwaysbom.xyz/)
+###### 🖥 [Project](http://alwaysbom.xyz/)
 ######  👩🏻‍💻 [Learning Blog](https://blog.naver.com/yunang1880)
 
 ---
